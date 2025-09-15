@@ -27,6 +27,16 @@ Answers
 9. its not gonna change becuase it is higher or greater too the set value
 10. Error: non-static method getValue() cannot be referenced from a static context
 11: display.setValue(int 5);, the type is already established in the code
-12: now we can get the same value as the set numberdisplay
-13:0
-14:! (4 < 5), !false, (34 != 33) && ! false
+13: now we can get the same value as the set numberdisplay
+14:0
+15:! (4 < 5), !false, (34 != 33) && ! false
+16:private boolean Test(){
+        if(a>b){
+            return true;
+        }
+        else{
+            return false;
+        }
+19 the order is diffrent
+20: 12cat and cat93
+21:
